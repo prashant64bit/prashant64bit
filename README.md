@@ -8,8 +8,8 @@ I enjoy working on real world projects, automation, and security-focused tooling
 ---
 
 ### 📫 Contact
-- **Email:** shortageofname@gmail.com  
-- **Portfolio:** [https://prashant.us.kg](https://prashant.us.kg)
+- **Email:** shortageofname@gmail.com
+- **Telegram:** [https://t.me/Prashant64bit](https://t.me/Prashant64bit)
 
 ---
 ### 🔗 Live Demos
