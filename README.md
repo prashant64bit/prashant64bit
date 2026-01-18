@@ -1,5 +1,7 @@
+---
 # Hi 👋, I'm Prashant Thakur
 
+---
 ### 🚀 Python Developer | Security Enthusiast
 
 I'm passionate about **Python development**, **cybersecurity**, and building practical software solutions.  
