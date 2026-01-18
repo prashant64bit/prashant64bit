@@ -27,8 +27,3 @@ I enjoy working on real world projects, automation, and security-focused tooling
 - **CustomQrAmount:** [https://CustomQrAmount.us.kg](https://CustomQrAmount.us.kg)
 
 ---
-### 📫 Contact
-- **Email:** Prashant64bit@gmail.com
-- **Telegram:** [https://t.me/Prashant64bit](https://t.me/Prashant64bit)
-
----
