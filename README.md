@@ -7,7 +7,7 @@ I'm passionate about **Python development**, **cybersecurity**, and building pra
 I enjoy working on real world projects, automation, and security-focused tooling.
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/prashant64bit/prashant64bit">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prashant64bit&hide=issues,contribs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" />
 </a>
 
@@ -23,7 +23,7 @@ I enjoy working on real world projects, automation, and security-focused tooling
 
 ---
 ### 🔗 Live Demos
-- **Portfolio:** [https://prashant.us.kg](https://prashant.us.kg)
+- **Portfolio:** [https://prashant.us.kg](https://prashant.is-a.dev)
 - **CustomQrAmount:** [https://CustomQrAmount.us.kg](https://CustomQrAmount.us.kg)
 
 ---
