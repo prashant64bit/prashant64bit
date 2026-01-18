@@ -23,7 +23,7 @@ I enjoy working on real world projects, automation, and security-focused tooling
 
 ---
 ### 🔗 Live Demos
-- **Portfolio:** [https://prashant.is-a.dev](https://prashant.is-a.dev)
+- **Portfolio:** [https://prashant.is-a.dev](https://prashantthakur.is-a.dev)
 - **CustomQrAmount:** [https://CustomQrAmount.us.kg](https://CustomQrAmount.us.kg)
 
 ---
