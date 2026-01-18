@@ -3,22 +3,24 @@
 
 ### 🚀 Python Developer | Security Enthusiast
 
-I'm passionate about **Python development**, **cybersecurity**, and building practical software solutions.  
+I'm passionate about **development**, **cybersecurity**, and building practical software solutions.  
 I enjoy working on real world projects, automation, and security-focused tooling.
 
 ---
-<a href="https://github.com/prashant64bit/prashant64bit">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prashant64bit&hide=issues,contribs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" />
-</a>
+<p align="center">
+  <a href="https://github.com/prashant64bit">
+    <img
+      height="200"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=prashant64bit&hide=issues,contribs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github"
+    />
+  </a>
+</p>
 
 ---
 ### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+<p align="center">
+<a href="https://github.com/prashant64bit"><img src="https://skillicons.dev/icons?i=c,python,bash,mysql,github,html,linux,windows,powershell&perline=9"> </a> 
 </p>
 
 ---
@@ -27,3 +29,6 @@ I enjoy working on real world projects, automation, and security-focused tooling
 - **CustomQrAmount:** [https://CustomQrAmount.us.kg](https://CustomQrAmount.us.kg)
 
 ---
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=thenareshofficial&style=for-the-badge&color=orange" alt=""/>
+</div>
