@@ -3,7 +3,7 @@
 
 ### 🚀 Python Developer | Security Enthusiast
 
-I'm passionate about **development**, **cybersecurity**, and building practical software solutions.  
+I'm passionate about **development**, **cybersecurity**, and Top 7% [@TryHackMe](https://tryhackme.com/p/ThePrashant).  
 I enjoy working on real world projects, automation, and security-focused tooling.
 
 ---
@@ -12,7 +12,7 @@ I enjoy working on real world projects, automation, and security-focused tooling
     <img
       height="200"
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=prashant64bit&hide=issues,contribs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github"
+      src="https://retard-two.vercel.app/api?username=prashant64bit&hide=issues,contribs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github"
     />
   </a>
 </p>
@@ -24,7 +24,7 @@ I enjoy working on real world projects, automation, and security-focused tooling
 </p>
 
 ---
-### 🔗 Live Demos
+### 🔗 Live Projects
 - **Portfolio:** [https://prashant.is-a.dev](https://prashantthakur.is-a.dev)
 - **CustomQrAmount:** [https://CustomQrAmount.us.kg](https://CustomQrAmount.us.kg)
 
