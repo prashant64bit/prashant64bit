@@ -1,7 +1,7 @@
 ---
 # Hi 👋, I'm Prashant Thakur
 
-### 🚀 Python Developer | Security Enthusiast
+### Developer | Cyber Security 
 
 I'm passionate about **development**, **cybersecurity**, and Top 7% [@TryHackMe](https://tryhackme.com/p/ThePrashant).  
 I enjoy working on real world projects, automation, and security-focused tooling.
